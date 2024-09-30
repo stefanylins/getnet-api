@@ -37,7 +37,7 @@ O script da automação foi implementado pelo Postman com Javascript + Newman, d
 ## Instalação
 
 Instalar o `node.js` pelo site
-(https://nodejs.org/pt)
+[node](https://nodejs.org/pt)
 
 Instalar o `newman` global
 ```bash
