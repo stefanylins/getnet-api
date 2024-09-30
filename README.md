@@ -70,7 +70,7 @@ newman run ReqresAPI.postman_collection.json -e ReqresAPI.postman_environment.js
 
 ## Relatórios de testes
 
-Após executar os testes, os relatórios gerados estarão salvos na pasta `getnet-api/newman` , possibilitando abrir e visualizar pelo navegador os resultados.
+Após executar os testes, os relatórios gerados estarão salvos na pasta `getnet-api/newman`, possibilitando visualizar pelo navegador os resultados.
 
 
 ## Considerações Finais
