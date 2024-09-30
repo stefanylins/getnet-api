@@ -3,11 +3,13 @@
 
 Esse projeto foi realizado como parte do processo seletivo para a empresa CWI Software.
 
+
 Desenvolva o script da automação seguindo as informações a seguir:
 
 [Documentação](https://reqres.in/)
 
 [URI](https://reqres.in/api/)
+
 
 > Passos:
 
