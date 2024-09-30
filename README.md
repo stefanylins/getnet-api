@@ -5,8 +5,8 @@ Esse projeto foi realizado como parte do processo seletivo para a empresa CWI So
 
 Desenvolva o script da automação seguindo as informações a seguir:
 
-Documentação = (https://reqres.in/)
-URI = (https://reqres.in/api/)
+[Documentação] = (https://reqres.in/)
+[URI] = (https://reqres.in/api/)
 
 > Passos:
 
@@ -20,7 +20,7 @@ Assured da API
 
 > IMPORTANTE!
 
-O script da automação foi implementada com Postman com Javascript + Newman, dado o curto prazo e a maior familiaridade com essa tecnologia em relação à stack principal desejada.
+O script da automação foi implementado com Postman com Javascript + Newman, dado o curto prazo e a maior familiaridade com essa tecnologia em relação à stack principal desejada.
 
 
 
