@@ -42,12 +42,12 @@ Instalar o `node.js` pelo site
 Instalar o `newman` global
 ```bash
   cd /c/
-npm install -g newman
+  npm install -g newman
 ```     
 Criar e acessar a pasta `getnet-api`
 ```bash
-mkdir getnet-api
-cd /c/getnet-api
+  mkdir getnet-api
+  cd /c/getnet-api
 ```
 
 
